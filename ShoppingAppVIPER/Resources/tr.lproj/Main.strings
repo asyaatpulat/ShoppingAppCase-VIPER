@@ -1,0 +1,76 @@
+
+/* Class = "UIViewController"; title = "SecondViewController"; ObjectID = "41m-CA-1na"; */
+"41m-CA-1na.title" = "SecondViewController";
+
+/* Class = "UITabBarItem"; title = "Discover"; ObjectID = "9Jh-Ok-sD7"; */
+"9Jh-Ok-sD7.title" = "Discover";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "C8g-c0-jAs"; */
+"C8g-c0-jAs.text" = "Label";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Dlv-c1-aJt"; */
+"Dlv-c1-aJt.text" = "Title";
+
+/* Class = "UIViewController"; title = "FifthViewController"; ObjectID = "E9O-hG-UWf"; */
+"E9O-hG-UWf.title" = "FifthViewController";
+
+/* Class = "UILabel"; text = "Discount"; ObjectID = "ELG-37-cE9"; */
+"ELG-37-cE9.text" = "Discount";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "H9M-G7-xUf"; */
+"H9M-G7-xUf.text" = "Price";
+
+/* Class = "UILabel"; text = "E-mail address"; ObjectID = "PVt-pu-iZe"; */
+"PVt-pu-iZe.text" = "Email";
+
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Vbw-34-L4n"; */
+"Vbw-34-L4n.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "ZaM-V7-RbN"; */
+"ZaM-V7-RbN.placeholder" = "Password";
+
+/* Class = "UIViewController"; title = "ThirdViewController"; ObjectID = "cs6-vq-bsN"; */
+"cs6-vq-bsN.title" = "ThirdViewController";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dJa-3E-I4r"; */
+"dJa-3E-I4r.text" = "Label";
+
+/* Class = "UILabel"; text = "Title Title Title Title Title Title Title "; ObjectID = "doq-xT-Lpp"; */
+"doq-xT-Lpp.text" = "Title Title Title Title Title Title Title ";
+
+/* Class = "UILabel"; text = "Discount"; ObjectID = "gH0-i0-paX"; */
+"gH0-i0-paX.text" = "Discount";
+
+/* Class = "UIButton"; normalTitle = "I FORGOT MY PASS"; ObjectID = "jqt-Nw-55L"; */
+"jqt-Nw-55L.normalTitle" = "Forgot Password";
+
+/* Class = "UIButton"; configuration.title = "TWITTER"; ObjectID = "mO2-9S-PQ0"; */
+"mO2-9S-PQ0.configuration.title" = "TWITTER";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "mO2-9S-PQ0"; */
+"mO2-9S-PQ0.normalTitle" = "Button";
+
+/* Class = "UIViewController"; title = "FourthViewController"; ObjectID = "pbu-6A-E7h"; */
+"pbu-6A-E7h.title" = "FourthViewController";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "sKx-zA-SjX"; */
+"sKx-zA-SjX.text" = "Home";
+
+/* Class = "UIViewController"; title = "HomeViewController"; ObjectID = "sxX-jX-g22"; */
+"sxX-jX-g22.title" = "HomeViewController";
+
+/* Class = "UIButton"; configuration.title = "LOGIN"; ObjectID = "tB8-7I-yeM"; */
+"tB8-7I-yeM.configuration.title" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "tB8-7I-yeM"; */
+"tB8-7I-yeM.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "FACEBOOK"; ObjectID = "tyu-sg-paL"; */
+"tyu-sg-paL.configuration.title" = "FACEBOOK";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "tyu-sg-paL"; */
+"tyu-sg-paL.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "uNC-Qs-Ff2"; */
+"uNC-Qs-Ff2.text" = "Price";
